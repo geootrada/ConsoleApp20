@@ -27,6 +27,7 @@ namespace ConsoleApp20
                     numberMultiples++;
                 }    
             }
+
             Console.WriteLine($"Количество чисел кратных выбранному N: {numberMultiples}");
         }
     }
